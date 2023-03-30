@@ -54,7 +54,7 @@
 ![telegraf](https://img.shields.io/badge/-Telegraf.js-000?&logo=telegram)
 
 ### Stay in touch:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)]([https://www.linkedin.com/in/sayedali-nourian-najafabadi-a44479127/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)]([https://www.linkedin.com/in/sayedali-nourian-najafabadi-a44479127/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/s.ali.nooriyan)
 [![protonmail](https://img.shields.io/badge/-ali@seemon.ir-000?&logo=protonmail)](mailto:ali@seemon.ir)
 
