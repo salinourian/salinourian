@@ -56,7 +56,7 @@
 ### Stay in touch:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)]([https://www.linkedin.com/in/sayedali-nourian-najafabadi-a44479127/))
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/s.ali.nooriyan)
-[![protonmail](https://img.shields.io/badge/-effati78@pm.me-000?&logo=protonmail)](mailto:ali@seemon.ir)
+[![protonmail](https://img.shields.io/badge/-ali@seemon.ir-000?&logo=protonmail)](mailto:ali@seemon.ir)
 
 ### Github Profile Details:
 
