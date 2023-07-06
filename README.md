@@ -146,4 +146,17 @@ Throughout my career, I has successfully completed various cool projects that ha
     </a>
 </div>
 
-<script id='fiverr-seller-widget-script-9aa290d5-115e-4c4f-95a0-d7bea2939f04' src='https://widgets.fiverr.com/api/v1/seller/sayedalinourian?widget_id=9aa290d5-115e-4c4f-95a0-d7bea2939f04' data-config='{"category_name":"\n                                    Programming \u0026 Tech\n\n                            "}' async='true' defer='true'></script>
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/sayedalinourian rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-ab305dd9-cf17-472f-92d0-b6ab1e04dc73' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >sayedalinourian</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>Im a highly experienced professional with a diverse background and expertise in IT, AI ,etc . With more than 8 years of work experience 
+Throughout my career, I has successfully completed various cool projects that have showcased my creativity and problem-solving abilities. These projects have ranged from AI, AGI, ICT and IT projects. </div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-ab305dd9-cf17-472f-92d0-b6ab1e04dc73' src='https://widgets.fiverr.com/api/v1/seller/sayedalinourian?widget_id=ab305dd9-cf17-472f-92d0-b6ab1e04dc73' data-config='{"category_name":"Writing \u0026 Translation"}' async='true' defer='true'></script>
