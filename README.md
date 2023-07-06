@@ -129,15 +129,3 @@ As an innovative AI developer, I have a passion for learning and creating cuttin
 18. AI-powered fraud detection and prevention systems for credit card companies
 19. Smart wearable devices that enable real-time biometric monitoring and analysis
 20. Computer vision systems for quality control and grading of products in manufacturing processes
-
-## **References:** :book:
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/sayedalinourian rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-9aa290d5-115e-4c4f-95a0-d7bea2939f04' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >sayedalinourian</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>Im a highly experienced professional with a diverse background and expertise in IT, AI ,etc . With more than 8 years of work 
