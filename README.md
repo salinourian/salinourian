@@ -158,5 +158,3 @@ Throughout my career, I has successfully completed various cool projects that ha
         </div>
     </a>
 </div>
-
-<script id='fiverr-seller-widget-script-ab305dd9-cf17-472f-92d0-b6ab1e04dc73' src='https://widgets.fiverr.com/api/v1/seller/sayedalinourian?widget_id=ab305dd9-cf17-472f-92d0-b6ab1e04dc73' data-config='{"category_name":"Writing \u0026 Translation"}' async='true' defer='true'></script>
