@@ -63,14 +63,14 @@
 <p align="left">
 <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salinourian&theme=github_dark"/>
 <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=salinourian&theme=github_dark"/>
-<!-- <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salinourian&theme=github_dark&utcOffset=8"/> -->
-<!-- <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salinourian&theme=github_dark"/> -->
-<!-- <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salinourian&theme=github_dark"/> -->
+<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salinourian&theme=github_dark&utcOffset=8"/>
+<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salinourian&theme=github_dark"/>
+<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salinourian&theme=github_dark"/>
 </p>
 
-<!-- <div align="left">
+<div align="left">
 <img height="160em" src="https://github.com/salinourian/About/blob/output/github-contribution-grid-snake.svg?palette=github">
-</div> -->
+</div>
 
 ## **Contact Information** :telephone_receiver:
 - **Phone:** [+98-936-7942785] :telephone:
