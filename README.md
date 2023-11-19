@@ -73,8 +73,8 @@
 </div>
 
 ## **Contact Information** :telephone_receiver:
-- **Phone:** [+98-936-7942785] :telephone:
-- **Email:** [ali@seemon.ir] :envelope:
+- **Phone:** [+971-522-475699] :telephone:
+- **Email:** [ali@cmon.pw] :envelope:
 - **GitHub:** [salinourian] :octocat:
 - **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/sayedali-nourian-najafabadi-a44479127/)] :briefcase:
 ## Hello, fellow coders and curious minds!
